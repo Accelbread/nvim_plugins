@@ -64,3 +64,6 @@
 [submodule "nvim-colorizer.lua"]
 	path = start/10nvim-colorizer.lua
 	url = https://github.com/norcalli/nvim-colorizer.lua
+[submodule "start/95iron.nvim"]
+	path = start/95iron.nvim
+	url = https://github.com/hkupty/iron.nvim
